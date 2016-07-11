@@ -75,6 +75,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pg\_partman](https://github.com/keithf4/pg_partman) - Partition management extension for PostgreSQL
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - An extension that allows to check plpgsql source code
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - An extension that provides logical streaming replication
+* [pgaudit](https://github.com/pgaudit/pgaudit) - An 9.5 extension for auditing performed queries  
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
